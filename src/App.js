@@ -1,12 +1,14 @@
-import './App.css';
-import ChessBoard from './components/ChessBoard';
-
+import React from "react";
+import "./App.css";
+import ChessBoard from "./components/board/chessBoard";
 function App() {
   return (
     <>
-      <ChessBoard/>
+      <ChessBoard />
     </>
   );
 }
 
 export default App;
+
+
