@@ -1,0 +1,60 @@
+.piece{
+    width: 50px;
+    height: 50px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    position: absolute;
+    
+
+}
+.hint{
+    background-image: url("../../../assets/images/hint.png");
+    
+}
+
+#circle{
+    width: 1px;
+    height: 1px;
+    background-color: blue;
+    position: absolute;
+    translate: 25px 25px;
+    border-radius: 50%;
+}
+
+
+.bRk{
+    background-image: url("../../../assets/images/bRk.png");
+}
+.bBp{
+    background-image: url("../../../assets/images/bBp.png");
+}
+.bKt{
+    background-image: url("../../../assets/images/bKt.png");
+}
+.bQn{
+    background-image: url("../../../assets/images/bQn.png");
+}
+.bKg{
+    background-image: url("../../../assets/images/bKg.png");
+}
+.bpawn{
+    background-image: url("../../../assets/images/bpawn.png");
+}
+.wRk{
+    background-image: url("../../../assets/images/wRk.png");
+}
+.wBp{
+    background-image: url("../../../assets/images/wBp.png");
+}
+.wKt{
+    background-image: url("../../../assets/images/wKt.png");
+}
+.wQn{
+    background-image: url("../../../assets/images/wQn.png");
+}
+.wKg{
+    background-image: url("../../../assets/images/wKg.png");
+}
+.wpawn{
+    background-image: url("../../../assets/images/wpawn.png");
+}
